@@ -1,6 +1,6 @@
 # Title: Lab6 Reproducible
-- Author: Your Name
-- Date: 10/14
+- Author: Tauahere Muck
+- Date: 10/12
 
 This is my first markdown notebook.
 
